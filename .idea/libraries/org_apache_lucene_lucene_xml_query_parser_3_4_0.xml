@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.apache.lucene:lucene-xml-query-parser:3.4.0" type="repository">
+    <properties maven-id="org.apache.lucene:lucene-xml-query-parser:3.4.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-xml-query-parser/3.4.0/lucene-xml-query-parser-3.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-core/3.4.0/lucene-core-3.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-queries/3.4.0/lucene-queries-3.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta-regexp/jakarta-regexp/1.4/jakarta-regexp-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
